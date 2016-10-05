@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Arial, Helvetica, Sans-Serif';
+}
+
+body{
+    background-color: #636363;
+    text-align: center;
+    font-family: 'gravity';
+    font-size: 15px;
+
+}
+.post{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    display:block;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.delete{
+    text-align: center;
+    margin: 0 auto;
+}
